@@ -46,6 +46,6 @@ Since the entire pipeline is contained within a single file, reproducing the res
     ```bash
     pip install pandas numpy yfinance hmmlearn cvxpy matplotlib scikit-learn
     ```
-2.  **Execution:** Open the submitted `.ipynb` file in Jupyter Notebook, JupyterLab, or VS Code.
+2.  **Execution:** Open the `Final_Project.ipynb` file in Jupyter Notebook, JupyterLab, or VS Code.
 3.  **Run:** Select **"Restart Kernel and Run All Cells"**. 
 4.  **Output:** The notebook will automatically download the required ticker data, process the walk-forward loops, and print the final transition matrices, regime charts, equity curves, and metric summaries at the bottom of the file.
